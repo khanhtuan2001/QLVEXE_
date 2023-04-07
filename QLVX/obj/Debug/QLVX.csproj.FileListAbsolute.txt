@@ -1,0 +1,709 @@
+E:\HỌC ONL\Công nghệ PM\QLVX\QLVX\obj\Debug\QLVX.frmDatVe.resources
+E:\HỌC ONL\Công nghệ PM\QLVX\QLVX\obj\Debug\QLVX.frmKhachHang.resources
+E:\HỌC ONL\Công nghệ PM\QLVX\QLVX\obj\Debug\QLVX.frmNhanVien.resources
+E:\HỌC ONL\Công nghệ PM\QLVX\QLVX\obj\Debug\QLVX.frmTuyenXe.resources
+E:\HỌC ONL\Công nghệ PM\QLVX\QLVX\obj\Debug\QLVX.Properties.Resources.resources
+E:\HỌC ONL\Công nghệ PM\QLVX\QLVX\obj\Debug\QLVX.csproj.GenerateResource.cache
+E:\HỌC ONL\Công nghệ PM\QLVX\QLVX\obj\Debug\QLVX.csproj.CoreCompileInputs.cache
+E:\HỌC ONL\Công nghệ PM\QLVX\QLVX\bin\Debug\QLVX.exe.config
+E:\HỌC ONL\Công nghệ PM\QLVX\QLVX\bin\Debug\QLVX.exe
+E:\HỌC ONL\Công nghệ PM\QLVX\QLVX\bin\Debug\QLVX.pdb
+E:\HỌC ONL\Công nghệ PM\QLVX\QLVX\obj\Debug\QLVX.exe
+E:\HỌC ONL\Công nghệ PM\QLVX\QLVX\obj\Debug\QLVX.pdb
+E:\HỌC ONL\Công nghệ PM\QLVX\QLVX\bin\Debug\EntityFramework.dll
+E:\HỌC ONL\Công nghệ PM\QLVX\QLVX\bin\Debug\EntityFramework.SqlServer.dll
+E:\HỌC ONL\Công nghệ PM\QLVX\QLVX\bin\Debug\EntityFramework.xml
+E:\HỌC ONL\Công nghệ PM\QLVX\QLVX\bin\Debug\EntityFramework.SqlServer.xml
+E:\HỌC ONL\Công nghệ PM\QLVX\QLVX\obj\Debug\QLVX.csproj.CopyComplete
+E:\HỌC ONL\Công nghệ PM\QLVX\QLVX\obj\Debug\QLVX.frmChuyenXe.resources
+E:\HỌC ONL\Công nghệ PM\QLVX\QLVX\obj\Debug\QLVX.csproj.AssemblyReference.cache
+E:\HỌC ONL\Công nghệ PM\QLVX\QLVX\obj\Debug\QLVX.frmTrangChu.resources
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\QLVX.exe.config
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\QLVX.exe
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\QLVX.pdb
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\EntityFramework.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\EntityFramework.SqlServer.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\EntityFramework.xml
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\EntityFramework.SqlServer.xml
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\obj\Debug\QLVX.csproj.AssemblyReference.cache
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\obj\Debug\QLVX.frmChuyenXe.resources
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\obj\Debug\QLVX.frmDatVe.resources
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\obj\Debug\QLVX.frmKhachHang.resources
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\obj\Debug\QLVX.frmNhanVien.resources
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\obj\Debug\QLVX.frmTrangChu.resources
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\obj\Debug\QLVX.frmTuyenXe.resources
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\obj\Debug\QLVX.Properties.Resources.resources
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\obj\Debug\QLVX.csproj.GenerateResource.cache
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\obj\Debug\QLVX.csproj.CoreCompileInputs.cache
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\obj\Debug\QLVX.exe
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\obj\Debug\QLVX.pdb
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\EnvDTE.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\stdole.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\Microsoft.MSXML.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\obj\Debug\RdlCompile.cache
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\obj\Debug\RdlCompile.compiled
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\obj\Debug\QLVX.FormReportVeXe.resources
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\ReportVeXe.rdlc
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\bin\Debug\ReportBaoCao1.rdlc
+D:\c#\Đồ án CNPM\QLVX (1)\QLVX\obj\Debug\QLVX.FormBaoCao.resources
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\ReportBaoCao1.rdlc
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\ReportVeXe.rdlc
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\QLVX.exe.config
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\QLVX.exe
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\QLVX.pdb
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\EntityFramework.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\EntityFramework.SqlServer.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\EnvDTE.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\stdole.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\Microsoft.MSXML.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\EntityFramework.xml
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\EntityFramework.SqlServer.xml
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\obj\Debug\QLVX.csproj.AssemblyReference.cache
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\obj\Debug\QLVX.FormBaoCao.resources
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\obj\Debug\QLVX.FormReportVeXe.resources
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\obj\Debug\QLVX.frmChuyenXe.resources
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\obj\Debug\QLVX.frmDatVe.resources
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\obj\Debug\QLVX.frmKhachHang.resources
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\obj\Debug\QLVX.frmLogin.resources
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\obj\Debug\QLVX.frmNhanVien.resources
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\obj\Debug\QLVX.frmTrangChu.resources
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\obj\Debug\QLVX.frmTuyenXe.resources
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\obj\Debug\QLVX.Properties.Resources.resources
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\obj\Debug\QLVX.csproj.GenerateResource.cache
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\obj\Debug\RdlCompile.cache
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\obj\Debug\RdlCompile.compiled
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\obj\Debug\QLVX.csproj.CoreCompileInputs.cache
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\obj\Debug\QLVX.exe
+D:\c#\Đồ án CNPM\QLVX (1) (1)\QLVX\obj\Debug\QLVX.pdb
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\ReportBaoCao1.rdlc
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\ReportVeXe.rdlc
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\QLVX.exe.config
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\QLVX.exe
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\QLVX.pdb
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\EnvDTE.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\stdole.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\obj\Debug\QLVX.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\obj\Debug\QLVX.FormBaoCao.resources
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\obj\Debug\QLVX.FormReportVeXe.resources
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\obj\Debug\QLVX.frmChuyenXe.resources
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\obj\Debug\QLVX.frmDatVe.resources
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\obj\Debug\QLVX.frmKhachHang.resources
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\obj\Debug\QLVX.frmLogin.resources
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\obj\Debug\QLVX.frmNhanVien.resources
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\obj\Debug\QLVX.frmTrangChu.resources
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\obj\Debug\QLVX.frmTuyenXe.resources
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\obj\Debug\QLVX.Properties.Resources.resources
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\obj\Debug\QLVX.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\obj\Debug\RdlCompile.cache
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\obj\Debug\RdlCompile.compiled
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\obj\Debug\QLVX.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\obj\Debug\QLVX.exe
+C:\Users\ASUS\Downloads\QLVX (1) (1)\QLVX\obj\Debug\QLVX.pdb
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\ReportBaoCao1.rdlc
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\ReportVeXe.rdlc
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\QLVX.exe.config
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\QLVX.exe
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\QLVX.pdb
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\EntityFramework.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\EntityFramework.SqlServer.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\EnvDTE.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\stdole.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\Microsoft.MSXML.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\EntityFramework.xml
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\EntityFramework.SqlServer.xml
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\obj\Debug\QLVX.csproj.AssemblyReference.cache
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\obj\Debug\QLVX.FormBaoCao.resources
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\obj\Debug\QLVX.FormReportVeXe.resources
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\obj\Debug\QLVX.frmChuyenXe.resources
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\obj\Debug\QLVX.frmDatVe.resources
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\obj\Debug\QLVX.frmKhachHang.resources
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\obj\Debug\QLVX.frmLogin.resources
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\obj\Debug\QLVX.frmNhanVien.resources
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\obj\Debug\QLVX.frmTrangChu.resources
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\obj\Debug\QLVX.frmTuyenXe.resources
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\obj\Debug\QLVX.Properties.Resources.resources
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\obj\Debug\QLVX.csproj.GenerateResource.cache
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\obj\Debug\RdlCompile.cache
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\obj\Debug\RdlCompile.compiled
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\obj\Debug\QLVX.csproj.CoreCompileInputs.cache
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\obj\Debug\QLVX.exe
+D:\c#\Đồ án CNPM\QLVX (1) (1) (1)\QLVX\obj\Debug\QLVX.pdb
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\obj\Debug\QLVX.csproj.AssemblyReference.cache
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\obj\Debug\QLVX.FormBaoCao.resources
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\obj\Debug\QLVX.FormReportVeXe.resources
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\obj\Debug\QLVX.frmChuyenXe.resources
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\obj\Debug\QLVX.frmDatVe.resources
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\obj\Debug\QLVX.frmKhachHang.resources
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\obj\Debug\QLVX.frmLogin.resources
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\obj\Debug\QLVX.frmNhanVien.resources
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\obj\Debug\QLVX.frmTrangChu.resources
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\obj\Debug\QLVX.frmTuyenXe.resources
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\obj\Debug\QLVX.Properties.Resources.resources
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\obj\Debug\QLVX.csproj.GenerateResource.cache
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\obj\Debug\RdlCompile.cache
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\obj\Debug\RdlCompile.compiled
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\obj\Debug\QLVX.csproj.CoreCompileInputs.cache
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\obj\Debug\QLVX.exe
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\obj\Debug\QLVX.pdb
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\ReportBaoCao1.rdlc
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\ReportVeXe.rdlc
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\QLVX.exe.config
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\QLVX.exe
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\QLVX.pdb
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\EntityFramework.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\EntityFramework.SqlServer.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\EnvDTE.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\stdole.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\Microsoft.MSXML.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\EntityFramework.xml
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\EntityFramework.SqlServer.xml
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\obj\Debug\QLVX.csproj.CopyComplete
+E:\HỌC ONL\Công nghệ PM\QLVX (1) (1) (1)\QLVX\obj\Debug\QLVX.frmTrangChu2.resources
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\ReportBaoCao1.rdlc
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\ReportVeXe.rdlc
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\Phan Mem Quan Ly Ve Xe.exe.config
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\Phan Mem Quan Ly Ve Xe.exe.manifest
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\Phan Mem Quan Ly Ve Xe.application
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\Phan Mem Quan Ly Ve Xe.exe
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\Phan Mem Quan Ly Ve Xe.pdb
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\EnvDTE.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\stdole.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\obj\Debug\QLVX.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\obj\Debug\QLVX.FormBaoCao.resources
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\obj\Debug\QLVX.FormReportVeXe.resources
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\obj\Debug\QLVX.frmChuyenXe.resources
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\obj\Debug\QLVX.frmDatVe.resources
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\obj\Debug\QLVX.frmKhachHang.resources
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\obj\Debug\QLVX.frmLogin.resources
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\obj\Debug\QLVX.frmNhanVien.resources
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\obj\Debug\QLVX.frmTrangChu.resources
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\obj\Debug\QLVX.frmTrangChu2.resources
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\obj\Debug\QLVX.frmTuyenXe.resources
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\obj\Debug\QLVX.Properties.Resources.resources
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\obj\Debug\QLVX.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\obj\Debug\RdlCompile.cache
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\obj\Debug\RdlCompile.compiled
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\obj\Debug\QLVX.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\obj\Debug\Phan Mem Quan Ly Ve Xe.exe.manifest
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\obj\Debug\Phan Mem Quan Ly Ve Xe.application
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\obj\Debug\QLVX.csproj.CopyComplete
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\obj\Debug\Phan Mem Quan Ly Ve Xe.exe
+C:\Users\Admin\Desktop\Đồ Án CNPM\QLVX_MoiNhat\QLVX\obj\Debug\Phan Mem Quan Ly Ve Xe.pdb
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\ReportBaoCao1.rdlc
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\ReportVeXe.rdlc
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\Phan Mem Quan Ly Ve Xe.exe.config
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\Phan Mem Quan Ly Ve Xe.exe.manifest
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\Phan Mem Quan Ly Ve Xe.application
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\Phan Mem Quan Ly Ve Xe.exe
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\Phan Mem Quan Ly Ve Xe.pdb
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\EntityFramework.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\EntityFramework.SqlServer.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\EnvDTE.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\stdole.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\Microsoft.MSXML.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\EntityFramework.xml
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\EntityFramework.SqlServer.xml
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\obj\Debug\QLVX.csproj.AssemblyReference.cache
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\obj\Debug\QLVX.FormBaoCao.resources
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\obj\Debug\QLVX.FormReportVeXe.resources
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\obj\Debug\QLVX.frmChuyenXe.resources
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\obj\Debug\QLVX.frmDatVe.resources
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\obj\Debug\QLVX.frmKhachHang.resources
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\obj\Debug\QLVX.frmLogin.resources
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\obj\Debug\QLVX.frmNhanVien.resources
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\obj\Debug\QLVX.frmTrangChu.resources
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\obj\Debug\QLVX.frmTrangChu2.resources
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\obj\Debug\QLVX.frmTuyenXe.resources
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\obj\Debug\QLVX.Properties.Resources.resources
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\obj\Debug\QLVX.csproj.GenerateResource.cache
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\obj\Debug\RdlCompile.cache
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\obj\Debug\RdlCompile.compiled
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\obj\Debug\QLVX.csproj.CoreCompileInputs.cache
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\obj\Debug\Phan Mem Quan Ly Ve Xe.exe.manifest
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\obj\Debug\Phan Mem Quan Ly Ve Xe.application
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\obj\Debug\Phan Mem Quan Ly Ve Xe.exe
+D:\c#\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\obj\Debug\Phan Mem Quan Ly Ve Xe.pdb
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\ReportBaoCao1.rdlc
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\ReportVeXe.rdlc
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\Phan Mem Quan Ly Ve Xe.exe.config
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\Phan Mem Quan Ly Ve Xe.exe.manifest
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\Phan Mem Quan Ly Ve Xe.application
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\Phan Mem Quan Ly Ve Xe.exe
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\Phan Mem Quan Ly Ve Xe.pdb
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\EntityFramework.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\EntityFramework.SqlServer.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\EnvDTE.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\stdole.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\Microsoft.MSXML.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\EntityFramework.xml
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\EntityFramework.SqlServer.xml
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\obj\Debug\QLVX.csproj.AssemblyReference.cache
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\obj\Debug\QLVX.FormBaoCao.resources
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\obj\Debug\QLVX.FormReportVeXe.resources
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\obj\Debug\QLVX.frmChuyenXe.resources
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\obj\Debug\QLVX.frmDatVe.resources
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\obj\Debug\QLVX.frmKhachHang.resources
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\obj\Debug\QLVX.frmLogin.resources
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\obj\Debug\QLVX.frmNhanVien.resources
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\obj\Debug\QLVX.frmTrangChu.resources
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\obj\Debug\QLVX.frmTrangChu2.resources
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\obj\Debug\QLVX.frmTuyenXe.resources
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\obj\Debug\QLVX.Properties.Resources.resources
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\obj\Debug\QLVX.csproj.GenerateResource.cache
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\obj\Debug\RdlCompile.cache
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\obj\Debug\RdlCompile.compiled
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\obj\Debug\QLVX.csproj.CoreCompileInputs.cache
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\obj\Debug\Phan Mem Quan Ly Ve Xe.exe.manifest
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\obj\Debug\Phan Mem Quan Ly Ve Xe.application
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\obj\Debug\Phan Mem Quan Ly Ve Xe.exe
+D:\cshape\đồ án C#\Nhóm 6 _ Quản lý bán vé xe\QLVX_MoiNhat\QLVX\obj\Debug\Phan Mem Quan Ly Ve Xe.pdb
